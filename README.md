@@ -1,7 +1,7 @@
 # Preprocessing II: Fun Bus Website
 
 Fun Bus is a travel agency looking for some help on their website.  They want a new navigation, new header, and new buttons on the home page. They also want a mobile version of their site styled.  Use your preprocessing knowledge to accomplish their tasks.
-
+lets have fun
 ## Task 1: Set Up The Project With Git
 
 - [ ] Create a forked copy of this project.
@@ -23,9 +23,9 @@ Follow these steps for completing your project.
 * [ ] Once in your project's root folder, run the following command `less-watch-compiler less css index.less`
 * [ ] Verify your compiler is working correctly by changing the `background-color` on the `html` selector to `red` in your `index.less` file.
 * [ ] Once you see the red screen, you can delete that style and you're ready to start on the next task
-
+/time to work!
 ## Task 3: Import LESS Files
-
+/this is too much!
 * [ ] Navigate to your `index.less` file. Notice the file is blank.  In order for you to see the styles for this project you must import them in a certain order.  That order is as follows:
 
 1. `variables.less`
