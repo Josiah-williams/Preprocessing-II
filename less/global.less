@@ -8,7 +8,6 @@ html {
 
 html, body {
   font-family: 'Roboto', sans-serif;
-  
 }
 
 h1, h2, h3, h4, h5 {
@@ -45,18 +44,11 @@ img {
   width: 100%;
   margin: 0 auto;
 }
-.image-container {
-  width:500px;
-}
-img {
-  width: 100%;
-  height: auto;
-  margin: 0
-}
-.image-container {
-  width:50px;
-}
-img {
-  width: 100%;
-  height: auto;
+
+@media (max-width: 500px) {
+  .container {
+    max-width: 500px;
+    margin-right: 20px;
+    margin-left: 10px;
+  }
 }
